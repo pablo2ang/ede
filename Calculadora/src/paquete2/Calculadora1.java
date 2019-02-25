@@ -8,7 +8,7 @@ public class Calculadora1 {
 		num1=a;
 		num2=b;
 	}
-	//81
+	//812
 	public int suma() {
 		int result = num1 + num2;
 		return result;
